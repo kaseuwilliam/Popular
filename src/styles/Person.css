@@ -1,0 +1,10 @@
+img{
+    width:200px;
+}
+
+.birthday{
+    text-decoration:underline;
+    font-weight:bold;
+    color: pink;
+    background-color: black;
+}
